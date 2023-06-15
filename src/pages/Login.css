@@ -1,0 +1,20 @@
+.login_bg {
+    height: 92vh;
+    background-image:url("../images/emoji_image.jpg") ;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+
+
+
+
+.login_bg2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
